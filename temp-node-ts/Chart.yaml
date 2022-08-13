@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: temp-node-ts
+description: Chart to configure ArgoCD with the temp-node-ts project and its applications

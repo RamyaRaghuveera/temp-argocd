@@ -1,0 +1,5 @@
+dependencies:
+  - name: temp-node-ts
+    version: 0.0.1
+    repository: >-
+      http://artifactory.tools:8082/artifactory/generic-local/rr-dev
