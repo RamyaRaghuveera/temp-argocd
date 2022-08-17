@@ -1,4 +1,4 @@
 dependencies:
-- name: temp-graph-ts
-  version: 0.0.1
+- name: temp-java-spr
+  version: 0.0.3
   repository: https://artifactory-tools.itzroks-550002kppa-tqh2qw-6ccd7f378ae819553d37d5f2ee142bd6-0000.eu-de.containers.appdomain.cloud/artifactory/generic-local/dev-rr/
