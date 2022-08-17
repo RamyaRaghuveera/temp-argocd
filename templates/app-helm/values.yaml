@@ -3,7 +3,7 @@
   #tlsSecretName: <dev-cluster-name>
 
 # replace <app-chart-name> with the value given in requirements.yaml
-temp-graph-ts:
+temp-java-spr:
   # provides values from the values.yaml in the <app-chart-name> helm chart
   replicaCount: 1
   
